@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599386147785",
+    "project_id": "task-9dd54",
+    "storage_bucket": "task-9dd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599386147785:android:6c7cd65aa28faa9a2af618",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWgwaGuap0lY-hUxFzbvzVf_G2NlH_9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599386147785:android:fd3c3380ca43357c2af618",
+        "android_client_info": {
+          "package_name": "task_1voilacode.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWgwaGuap0lY-hUxFzbvzVf_G2NlH_9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
